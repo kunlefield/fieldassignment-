@@ -3,3 +3,14 @@ C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\my first app.GeneratedMSBuil
 C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\my first app.AssemblyInfoInputs.cache
 C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\my first app.AssemblyInfo.cs
 C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\my first app.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\my first app\bin\Debug\net5.0\my first app.exe
+C:\Users\USER\Desktop\my first app\bin\Debug\net5.0\my first app.deps.json
+C:\Users\USER\Desktop\my first app\bin\Debug\net5.0\my first app.runtimeconfig.json
+C:\Users\USER\Desktop\my first app\bin\Debug\net5.0\my first app.runtimeconfig.dev.json
+C:\Users\USER\Desktop\my first app\bin\Debug\net5.0\my first app.dll
+C:\Users\USER\Desktop\my first app\bin\Debug\net5.0\ref\my first app.dll
+C:\Users\USER\Desktop\my first app\bin\Debug\net5.0\my first app.pdb
+C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\my first app.dll
+C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\ref\my first app.dll
+C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\my first app.pdb
+C:\Users\USER\Desktop\my first app\obj\Debug\net5.0\my first app.genruntimeconfig.cache
